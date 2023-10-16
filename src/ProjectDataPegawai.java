@@ -1,3 +1,6 @@
+//farel pahlevi azhar
+//2211103008
+//S1SI06B
 import java.io.*;
 public class ProjectDataPegawai {
     public static void main(String[] args) {

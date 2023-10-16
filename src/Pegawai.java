@@ -1,3 +1,6 @@
+//farel pahlevi azhar
+//2211103008
+//S1SI06B
 public class Pegawai {
     private int gajiPokok, totalGaji, hariLembur;
     private String NIP, nama, alamat;
